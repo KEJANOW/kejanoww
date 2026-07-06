@@ -15,3 +15,4 @@ bridge.md
 defi.md
 nft.md
 airdrop.md
+Day 8 - Base network learning
