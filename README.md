@@ -16,3 +16,4 @@ defi.md
 nft.md
 airdrop.md
 Day 8 - Base network learning
+Day 9 - Public GitHub contribution
