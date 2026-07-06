@@ -22,3 +22,4 @@ Day 10 - Web3 journey update
 Day 11 - Base app notes
 Day 12 - Coinbase Wallet notes
 Day 13 - Smart Wallet learning
+Day 14 - Layer 2 ecosystem
