@@ -18,3 +18,5 @@ airdrop.md
 Day 8 - Base network learning
 Day 9 - Public GitHub contribution
 Day 10 - Web3 journey update
+Day 10 - Web3 journey update
+Day 11 - Base app notes
