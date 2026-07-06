@@ -6,3 +6,4 @@ Day 3 - Base ecosystem notes
 Day 4 - Basename information
 Day 5 - Wallet setup notes
 Day 6 - Bridge activity notes
+Day 7 - Onchain transaction notes
