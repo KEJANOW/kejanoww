@@ -7,3 +7,11 @@ Day 4 - Basename information
 Day 5 - Wallet setup notes
 Day 6 - Bridge activity notes
 Day 7 - Onchain transaction notes
+README.md
+base.md
+basename.md
+wallet.md
+bridge.md
+defi.md
+nft.md
+airdrop.md
