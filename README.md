@@ -20,3 +20,5 @@ Day 9 - Public GitHub contribution
 Day 10 - Web3 journey update
 Day 10 - Web3 journey update
 Day 11 - Base app notes
+Day 12 - Coinbase Wallet notes
+Day 13 - Smart Wallet learning
