@@ -20,3 +20,10 @@ Topics to review:
 - Solidity basics
 - Wallet security
 - Bridge safety
+## Study Plan
+
+Daily focus:
+
+- Read one documentation page.
+- Update one note file.
+- Make one useful GitHub commit.
