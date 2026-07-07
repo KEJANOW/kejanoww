@@ -15,3 +15,12 @@ Smart wallets improve user experience by enabling advanced account features.
 
 - Understand account abstraction
 - Explore Base Smart Wallet
+## Smart Wallet Use Cases
+
+Smart wallets can improve onboarding for new users.
+
+Use cases:
+
+- Gas sponsorship
+- Session keys
+- Better recovery options
