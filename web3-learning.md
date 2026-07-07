@@ -22,3 +22,10 @@ Topics completed today:
 - GitHub documentation
 
 Learning consistently is more important than learning quickly.
+## Learning Strategy
+
+- Read official documentation
+- Practice daily
+- Explore GitHub projects
+- Use testnets
+- Build small applications
