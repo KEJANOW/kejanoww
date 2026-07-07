@@ -21,3 +21,11 @@ Common onchain actions include:
 - Governance voting
 
 These actions help users understand how blockchain applications work.
+## Onchain Activities
+
+Examples:
+
+- Swaps
+- Bridging
+- NFT minting
+- Governance voting
