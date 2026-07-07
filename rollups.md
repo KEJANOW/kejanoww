@@ -23,3 +23,7 @@ There are two common rollup categories:
 - Zero-knowledge rollups
 
 Rollups help Ethereum scale by processing transactions off the main chain.
+## Rollup Types
+
+- Optimistic Rollups
+- Zero Knowledge Rollups
