@@ -12,3 +12,10 @@ Ethereum is the leading smart contract blockchain.
 - Gas
 
 Base is built on Ethereum.
+## Ethereum Facts
+
+Ethereum introduced smart contracts and decentralized applications.
+
+### Consensus
+
+Ethereum uses Proof of Stake after the Merge upgrade.
