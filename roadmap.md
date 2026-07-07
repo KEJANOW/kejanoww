@@ -16,3 +16,10 @@
 
 - Build applications
 - Deploy contracts
+## Next Learning Goals
+
+- Learn basic Solidity
+- Understand smart wallets
+- Practice GitHub commits
+- Explore Base ecosystem projects
+- Improve documentation skills
