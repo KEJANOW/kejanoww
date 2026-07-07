@@ -16,3 +16,9 @@ Coinbase Wallet is a self-custody wallet for Web3 users.
 - Connected to Base ecosystem
 - Exploring decentralized applications
 - Learning wallet security
+## Coinbase Wallet Features
+
+- Supports Ethereum and Layer 2 networks.
+- Works with decentralized applications.
+- Allows NFT storage.
+- Supports multiple accounts.
