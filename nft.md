@@ -22,3 +22,4 @@ Learning NFT ecosystem on Base.
 - Identity
 
 NFT ownership is verified onchain.
+Expand NFT applications
