@@ -27,3 +27,10 @@ Daily focus:
 - Read one documentation page.
 - Update one note file.
 - Make one useful GitHub commit.
+## Useful Resources
+
+- Ethereum Documentation
+- Base Documentation
+- Coinbase Developer Docs
+- Solidity Documentation
+- GitHub Open Source Projects
