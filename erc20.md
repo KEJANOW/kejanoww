@@ -15,3 +15,12 @@ ERC-20 is the most widely used token standard on Ethereum.
 - Understand token transfers
 - Learn approvals
 - Explore Base token ecosystem
+## ERC20 Functions
+
+Required functions include:
+
+- transfer()
+- approve()
+- transferFrom()
+- balanceOf()
+- totalSupply()
