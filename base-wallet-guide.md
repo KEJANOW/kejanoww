@@ -12,3 +12,11 @@
 - Keep recovery phrase offline.
 - Verify official links.
 - Use trusted bridges.
+## Wallet Connection Tips
+
+Before connecting a wallet:
+
+- Verify the website.
+- Check the network.
+- Read requested permissions.
+- Disconnect unused applications regularly.
