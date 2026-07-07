@@ -23,3 +23,6 @@
 - Practice GitHub commits
 - Explore Base ecosystem projects
 - Improve documentation skills
+## Long Term Goal
+
+Build a small Web3 project on Base and document the learning process step by step.
