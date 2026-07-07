@@ -19,3 +19,9 @@ Useful skills include:
 - JavaScript
 - TypeScript
 - Smart contract security
+## Developer Skills
+
+- Git
+- Solidity
+- JavaScript
+- Smart Contracts
