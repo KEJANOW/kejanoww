@@ -19,3 +19,14 @@ Ethereum introduced smart contracts and decentralized applications.
 ### Consensus
 
 Ethereum uses Proof of Stake after the Merge upgrade.
+## Ethereum Features
+
+- Smart contracts
+- Decentralized applications
+- Large developer ecosystem
+- Strong security
+- Global adoption
+
+## Personal Notes
+
+Ethereum remains the foundation for most Layer 2 networks.
