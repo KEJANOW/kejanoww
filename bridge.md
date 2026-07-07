@@ -28,3 +28,10 @@ Common bridge risks include:
 ## Recommendations
 
 Always verify the official bridge website before transferring assets.
+## Risks
+
+Bridge users should verify:
+
+- Destination network
+- Token compatibility
+- Transaction status
