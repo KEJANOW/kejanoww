@@ -11,3 +11,11 @@ Move assets between Ethereum and Base.
 - Fast confirmations
 
 Learning Base Bridge workflow.
+## Before Bridging
+
+Checklist:
+
+- Verify destination network.
+- Confirm wallet address.
+- Keep enough ETH for gas.
+- Double-check transfer amount.
