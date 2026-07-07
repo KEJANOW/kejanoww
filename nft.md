@@ -14,3 +14,11 @@ NFTs represent ownership of digital assets.
 ## Goal
 
 Learning NFT ecosystem on Base.
+## NFT Use Cases
+
+- Digital art
+- Gaming assets
+- Membership passes
+- Identity
+
+NFT ownership is verified onchain.
