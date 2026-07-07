@@ -14,3 +14,13 @@ DeFi enables financial services without centralized intermediaries.
 ## Learning
 
 Exploring protocols available on Base.
+## Popular DeFi Protocols
+
+- Aave
+- Morpho
+- Pendle
+- Uniswap
+
+## Learning Goal
+
+Understand lending, borrowing and liquidity protocols.
