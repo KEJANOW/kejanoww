@@ -24,3 +24,11 @@ Required functions include:
 - transferFrom()
 - balanceOf()
 - totalSupply()
+## ERC20 Functions
+
+- transfer()
+- approve()
+- transferFrom()
+- balanceOf()
+
+ERC20 is the standard token format on Ethereum.
