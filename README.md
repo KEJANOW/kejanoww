@@ -23,3 +23,6 @@ Day 11 - Base app notes
 Day 12 - Coinbase Wallet notes
 Day 13 - Smart Wallet learning
 Day 14 - Layer 2 ecosystem
+## Repository Purpose
+
+This repository is used to organize Web3, Base, wallet, and blockchain learning notes.
