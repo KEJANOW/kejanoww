@@ -14,3 +14,6 @@ Base is an Ethereum Layer 2 network developed by Coinbase.
 - Exploring new applications
 - Following public GitHub activity
 - Preparing for future opportunities
+## New Notes
+
+Base is useful for learning Layer 2 activity, wallet usage, and onchain applications.
