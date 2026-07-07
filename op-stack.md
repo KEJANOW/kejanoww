@@ -13,3 +13,12 @@ OP Stack is the technology behind Base.
 ## Learning
 
 Understanding how Base is built.
+## OP Stack Benefits
+
+OP Stack helps developers build scalable Layer 2 networks.
+
+Key points:
+
+- Open source
+- Modular design
+- Ethereum compatibility
