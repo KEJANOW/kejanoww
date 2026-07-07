@@ -24,3 +24,8 @@ Use cases:
 - Gas sponsorship
 - Session keys
 - Better recovery options
+## Advantages
+
+- Better onboarding
+- Enhanced security
+- Flexible permissions
