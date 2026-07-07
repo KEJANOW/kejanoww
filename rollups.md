@@ -15,3 +15,11 @@ Rollups improve Ethereum scalability.
 - Base
 - Optimism
 - Arbitrum
+## Rollup Types
+
+There are two common rollup categories:
+
+- Optimistic rollups
+- Zero-knowledge rollups
+
+Rollups help Ethereum scale by processing transactions off the main chain.
