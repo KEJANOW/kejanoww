@@ -24,3 +24,6 @@ Base is useful for learning Layer 2 activity, wallet usage, and onchain applicat
 - Ethereum compatibility
 - Growing developer community
 - Easy access through Coinbase tools
+## Ecosystem
+
+The Base ecosystem includes DeFi, NFT, gaming, social applications and developer tools.
