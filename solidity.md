@@ -22,3 +22,12 @@ Learn the basics of Solidity development.
 - external
 
 Choosing the correct visibility improves security and readability.
+## Solidity Basics
+
+- Variables
+- Functions
+- Events
+- Modifiers
+- Contracts
+
+Practice writing simple smart contracts regularly.
