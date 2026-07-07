@@ -15,3 +15,16 @@ Wallets are used to connect to Web3 applications.
 - Never share seed phrases.
 - Always check website links.
 - Use official applications.
+## Hardware Wallets
+
+Hardware wallets provide better security for long-term storage.
+
+Examples:
+- Ledger
+- Trezor
+
+## Best Practices
+
+- Backup recovery phrase securely.
+- Enable two-factor authentication.
+- Verify wallet addresses before sending funds.
