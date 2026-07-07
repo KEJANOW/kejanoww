@@ -18,3 +18,11 @@ Reduce gas usage by:
 - Batch transactions
 - Using Layer 2 networks
 - Avoiding unnecessary contract interactions
+## Gas Optimization
+
+- Use Layer 2 networks
+- Avoid unnecessary transactions
+- Monitor network activity
+- Estimate fees before sending
+
+Gas fees depend on network demand.
