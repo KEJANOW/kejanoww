@@ -23,3 +23,12 @@ Smart contracts are programs that run on blockchain networks.
 4. Verify
 5. Interact
 6. Upgrade when needed
+## Smart Contract Lifecycle
+
+1. Write code
+2. Compile
+3. Deploy
+4. Verify
+5. Interact
+
+Testing before deployment is essential.
