@@ -28,3 +28,10 @@ Examples:
 - Backup recovery phrase securely.
 - Enable two-factor authentication.
 - Verify wallet addresses before sending funds.
+## Wallet Backup
+
+Recommended practices:
+
+- Store recovery phrases offline.
+- Use multiple secure backups.
+- Never upload private keys to cloud services.
